@@ -1,8 +1,8 @@
 // Remplacez YOUR_API_KEY par votre clé API Google
-const API_KEY = 'AIzaSyDDPfQ1BfG31eeg0YDZNPGjU1EPK7naxXg';
+const API_KEY = '';
 
 // Remplacez YOUR_SPREADSHEET_ID par l'ID de votre feuille de calcul Google
-const SPREADSHEET_ID = '18PqctGp5Cqc6tMGKpBlXJ4PJa9eINFNwNVPKbNtIRGg';
+const SPREADSHEET_ID = '';
 
 // Fonction pour récupérer les données de la feuille de calcul
 async function fetchRankingData() {
